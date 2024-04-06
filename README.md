@@ -11,7 +11,7 @@
 <a href="https://www.linkedin.com/in/subham-behera-7631552b9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/subham-behera-7631552b9/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/23793421/subham-behera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/23793421/subham-behera" height="30" width="40" /></a>
 <a href="https://medium.com/@subhambehera2104" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://medium.com/@subhambehera2104" height="30" width="40" /></a>
-<a href="https://github.com/subhambehera2104" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://github.com/subhambehera2104" height="30" width="40" /></a>
+<a href="https://github.com/subhambehera2104" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="https://github.com/subhambehera2104" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
