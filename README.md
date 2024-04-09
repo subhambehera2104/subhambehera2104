@@ -3,7 +3,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@subhambehera2104](https://medium.com/@subhambehera2104)
 
-<h2>- 💬 Ask me about....</h2>h1></h1> **Tech 💻 system design, datastructures, databases, networking, web / app development, scaling your code to millions of requests ,**
+<h2>- 💬 Ask me about....</h2></h1> **Tech 💻 system design, datastructures, databases, networking, web / app development, scaling your code to millions of requests ,**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
